@@ -1,0 +1,8139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.19037,
+          46.207948
+        ]
+      },
+      "properties": {
+        "name": "2LDC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.199945,
+          30.426991
+        ]
+      },
+      "properties": {
+        "name": "9th Avenue Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.447393,
+          43.603081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "32 Mesures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.547592,
+          47.212339
+        ]
+      },
+      "properties": {
+        "name": "44.2 Fièvre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35043,
+          48.858602
+        ]
+      },
+      "properties": {
+        "name": "404 Bonheur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.344123,
+          48.867186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "3615 Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3311243,
+          48.0944459
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 318967,
+        "osm_key": "place",
+        "osm_value": "town",
+        "type": "city",
+        "postcode": "29100",
+        "countrycode": "FR",
+        "name": "A Bout de Souffle",
+        "country": "France",
+        "state": "Bretagne",
+        "county": "Finistère",
+        "extent": [
+          -4.3789423,
+          48.1102358,
+          -4.2696225,
+          48.0483951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.973011,
+          44.091599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "À Mi-Temps Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.345615,
+          44.495679
+        ]
+      },
+      "properties": {
+        "name": "Acabanda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.356798,
+          48.862558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Acid Guru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976955,
+          40.664429
+        ]
+      },
+      "properties": {
+        "name": "Ad Hoc Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.717079,
+          37.965042
+        ]
+      },
+      "properties": {
+        "name": "Agia Fanfara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342191,
+          48.856273
+        ]
+      },
+      "properties": {
+        "name": "ALT 144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.550531,
+          47.214671
+        ]
+      },
+      "properties": {
+        "name": "Amfifanfare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477818,
+          48.754038
+        ]
+      },
+      "properties": {
+        "name": "Analog Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.348698,
+          50.848657
+        ]
+      },
+      "properties": {
+        "name": "Antifafare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.892787,
+          47.045315
+        ]
+      },
+      "properties": {
+        "name": "Artesian Rumble Arkestra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329845,
+          47.603501
+        ]
+      },
+      "properties": {
+        "name": "Assigned Gay At Band (AGAB)",
+        "description": "AGAB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.146224,
+          43.819464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Attila & les Huns, II, III, IV !"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745726,
+          30.275413
+        ]
+      },
+      "properties": {
+        "name": "Austiner Klezmer Bund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.10865,
+          46.14547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Avenir musical Pouilly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.100422,
+          51.507901
+        ]
+      },
+      "properties": {
+        "name": "Babel Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.51886,
+          53.794162
+        ]
+      },
+      "properties": {
+        "name": "Backstage Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.730254,
+          45.190861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bad Bromance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338886,
+          48.853237
+        ]
+      },
+      "properties": {
+        "name": "Balaphonics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1807,
+          41.383474
+        ]
+      },
+      "properties": {
+        "name": "Balkan Paradise Orchestra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.147125,
+          49.266908
+        ]
+      },
+      "properties": {
+        "name": "Balkan Shmalkan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.016132,
+          41.412537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Band The Marxa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.44636,
+          43.601069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Band'Aéro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.089178,
+          44.13266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Band'Alès"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.248538,
+          40.835616
+        ]
+      },
+      "properties": {
+        "name": "Banda Basaglia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.903991,
+          46.327017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Banda BDB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.036183,
+          44.351627
+        ]
+      },
+      "properties": {
+        "name": "Banda Bono"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74527,
+          51.063407
+        ]
+      },
+      "properties": {
+        "name": "Banda Comunale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5138039,
+          43.4888936
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 7591427871,
+        "osm_key": "emergency",
+        "osm_value": "defibrillator",
+        "type": "house",
+        "housenumber": "24",
+        "street": "Allée de Moyrie",
+        "district": "La Butte aux Cailles",
+        "city": "Anglet",
+        "county": "Pyrénées-Atlantiques",
+        "state": "Nouvelle-Aquitaine",
+        "country": "France",
+        "postcode": "64600",
+        "countrycode": "FR",
+        "name": "Banda des Genêts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.090329,
+          46.073774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Banda Festa 17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5900213136785104,
+          46.940798982027005
+        ]
+      },
+      "properties": {
+        "name": "Banda Fiesta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.548345,
+          44.807249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Banda les bogoss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.20304326909144083,
+          43.95080616363622
+        ]
+      },
+      "properties": {
+        "name": "Banda les Kanari's"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31708,
+          43.762168
+        ]
+      },
+      "properties": {
+        "name": "Banda Los Craignos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.430012,
+          43.778128
+        ]
+      },
+      "properties": {
+        "name": "Banda Los Divinos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.156919,
+          47.645499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Banda ludoise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.577573,
+          48.139752
+        ]
+      },
+      "properties": {
+        "name": "Banda Ramua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.65505,
+          -33.435739
+        ]
+      },
+      "properties": {
+        "name": "Banda Rim Bam Bum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.342998,
+          44.493704
+        ]
+      },
+      "properties": {
+        "name": "Banda Roncati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.910875,
+          45.183246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1377498,
+        "osm_key": "boundary",
+        "osm_value": "administrative",
+        "type": "city",
+        "postcode": "43800",
+        "countrycode": "FR",
+        "country": "France",
+        "state": "Auvergne-Rhône-Alpes",
+        "county": "Haute-Loire",
+        "extent": [
+          3.8418821,
+          45.22318,
+          3.9703322,
+          45.1662543
+        ],
+        "name": "Banda Vorey'V"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3518627794266038,
+          48.09736127383694
+        ]
+      },
+      "properties": {
+        "name": "Banda'Suzanne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338457,
+          48.860198
+        ]
+      },
+      "properties": {
+        "name": "Bandarrêtdurgence"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356868,
+          48.85616
+        ]
+      },
+      "properties": {
+        "name": "Barbecue Brass Band (BBQBB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.743516,
+          30.27154
+        ]
+      },
+      "properties": {
+        "name": "Bat City Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615585,
+          48.56042
+        ]
+      },
+      "properties": {
+        "name": "Batterie Fanfare Hangenbieten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.973601,
+          48.031078
+        ]
+      },
+      "properties": {
+        "name": "Batterie Fanfare l'Espérance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6844938,
+          43.4603178
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 163355,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "postcode": "34540",
+        "countrycode": "FR",
+        "name": "Batucanfare",
+        "country": "France",
+        "state": "Occitanie",
+        "county": "Hérault",
+        "extent": [
+          3.6661337,
+          43.4794759,
+          3.7265657,
+          43.4503957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.346026,
+          46.583347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Baudet Brass Pict"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.573099,
+          48.138864
+        ]
+      },
+      "properties": {
+        "name": "Beatprotest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.572042,
+          50.640589
+        ]
+      },
+      "properties": {
+        "name": "Beats and Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.648441,
+          -33.445193
+        ]
+      },
+      "properties": {
+        "name": "Beauchef Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.332224,
+          48.856753
+        ]
+      },
+      "properties": {
+        "name": "Beautiful People Fanfare Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.480544,
+          49.262876
+        ]
+      },
+      "properties": {
+        "name": "Beer Glass Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.341267,
+          48.849108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bellette Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.41019,
+          63.416596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Berseblæsten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.332385,
+          48.853717
+        ]
+      },
+      "properties": {
+        "name": "Big Funk Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.752314,
+          30.276821
+        ]
+      },
+      "properties": {
+        "name": "Big Wy's Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.734158,
+          59.912912
+        ]
+      },
+      "properties": {
+        "name": "Biørneblæs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.333586,
+          48.864651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Birdy Nasty"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.382813,
+          43.298854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bisous Biceps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85028,
+          38.510833
+        ]
+      },
+      "properties": {
+        "name": "Black Sheep Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.391115,
+          33.750124
+        ]
+      },
+      "properties": {
+        "name": "Black Sheep Ensemble"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388879,
+          52.519994
+        ]
+      },
+      "properties": {
+        "name": "Blechblase Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.386809,
+          43.541674
+        ]
+      },
+      "properties": {
+        "name": "Blitz Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.893744,
+          52.372842
+        ]
+      },
+      "properties": {
+        "name": "Block Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338457,
+          48.851557
+        ]
+      },
+      "properties": {
+        "name": "Blouse Brothers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.747679,
+          30.269483
+        ]
+      },
+      "properties": {
+        "name": "Blowcomotion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.88621,
+          37.990041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Blue Star Street Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.555338,
+          47.21485
+        ]
+      },
+      "properties": {
+        "name": "BlyatBrassStyle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353392,
+          48.849976
+        ]
+      },
+      "properties": {
+        "name": "Bob Banane Blast Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.69169,
+          50.851326
+        ]
+      },
+      "properties": {
+        "name": "BomBRASStic Brassband"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.497938,
+          51.315405
+        ]
+      },
+      "properties": {
+        "name": "Boom Horns"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.063297,
+          50.637485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Brass Attacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.263385,
+          45.833225
+        ]
+      },
+      "properties": {
+        "name": "Brass Bouz' Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99086,
+          40.731259
+        ]
+      },
+      "properties": {
+        "name": "Brass By The Slice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.274704,
+          44.277032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Brass Coulée Titanic Orchestra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.539989,
+          46.780843
+        ]
+      },
+      "properties": {
+        "name": "Brass Cuvée"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.052778,
+          43.709501
+        ]
+      },
+      "properties": {
+        "name": "Brass Délirium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.961678,
+          40.639098
+        ]
+      },
+      "properties": {
+        "name": "Brass Queens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08763,
+          45.776443
+        ]
+      },
+      "properties": {
+        "name": "Brass-Band Project"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.328759,
+          48.858748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Brass'éliande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.768045,
+          45.782801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Brass'Partout"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.2667,
+          45.837072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Brass'rient"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -9.15659,
+          39.360909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "BRASSDASS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.742759,
+          51.059415
+        ]
+      },
+      "properties": {
+        "name": "Brasskarawane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.792248,
+          42.253998
+        ]
+      },
+      "properties": {
+        "name": "Brasskill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.350886,
+          50.847722
+        ]
+      },
+      "properties": {
+        "name": "Brazzmatazz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.949488,
+          40.660717
+        ]
+      },
+      "properties": {
+        "name": "Bread&Puppet Theatre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.226837,
+          46.205576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bress'Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.188214,
+          41.179365
+        ]
+      },
+      "properties": {
+        "name": "Bridgetown Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.571568,
+          44.84096
+        ]
+      },
+      "properties": {
+        "name": "Brigitte Bordo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.420538,
+          47.973339
+        ]
+      },
+      "properties": {
+        "name": "Brotäne Herdepfl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.437106,
+          44.449888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bubble Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.611939,
+          45.507324
+        ]
+      },
+      "properties": {
+        "name": "Burning BRASs Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.097504,
+          51.512695
+        ]
+      },
+      "properties": {
+        "name": "BUSC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.352229,
+          43.368121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ca Dépend des Jours (CDDJ)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.365317,
+          49.182713
+        ]
+      },
+      "properties": {
+        "name": "Café Calva Caennexion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.546519,
+          47.248197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Caisson 2 Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.082999,
+          4.651326
+        ]
+      },
+      "properties": {
+        "name": "Calentanos Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.887854,
+          44.932648
+        ]
+      },
+      "properties": {
+        "name": "Canal Chips"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.377024,
+          43.295082
+        ]
+      },
+      "properties": {
+        "name": "Canebière Pression"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.335947,
+          48.851273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Cap To Nola Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.178541,
+          48.776965
+        ]
+      },
+      "properties": {
+        "name": "Capella Rebella"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.826254,
+          49.417911
+        ]
+      },
+      "properties": {
+        "name": "Caphar Naüm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.566298,
+          45.508798
+        ]
+      },
+      "properties": {
+        "name": "Chaotic Insurrection Ensemble"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.338039,
+          48.855361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Charlots d’Eon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551754,
+          47.218752
+        ]
+      },
+      "properties": {
+        "name": "Chaudement Recommandé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.360816,
+          48.858305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Chili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.566764,
+          43.894924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ciao Carla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.092085,
+          43.677434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Cie Les Enjoliveurs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.091609,
+          9.980115
+        ]
+      },
+      "properties": {
+        "name": "Cimarrona La Original"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.880663,
+          43.612807
+        ]
+      },
+      "properties": {
+        "name": "Coco Fanfare Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.634369,
+          44.889825
+        ]
+      },
+      "properties": {
+        "name": "Collectif Fanfare de Briançon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.67712,
+          48.110919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Collectif Volkanik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.062467,
+          42.356974
+        ]
+      },
+      "properties": {
+        "name": "Conical Cacophony"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.575119,
+          44.840047
+        ]
+      },
+      "properties": {
+        "name": "Contreband"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.729027,
+          45.189175
+        ]
+      },
+      "properties": {
+        "name": "Contrefa'son"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63352966308594,
+          -23.545114892004197
+        ]
+      },
+      "properties": {
+        "name": "Cornucópia Desvairada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.738449,
+          59.913224
+        ]
+      },
+      "properties": {
+        "name": "Corpsus Juris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.592393,
+          46.943729
+        ]
+      },
+      "properties": {
+        "name": "Couak'Onjoue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16701,
+          48.709569
+        ]
+      },
+      "properties": {
+        "name": "Dalonkhii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.367455,
+          49.03279
+        ]
+      },
+      "properties": {
+        "name": "Dans la Gueule du Loup"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.108399,
+          51.512215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Das Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.741349,
+          30.275413
+        ]
+      },
+      "properties": {
+        "name": "Dead Music Capital Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.437836,
+          43.603283
+        ]
+      },
+      "properties": {
+        "name": "Dead Paquito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.403838,
+          63.418324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Dei Taktlause"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.403538,
+          63.415751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Den Ohmske Motstanden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.57329,
+          44.351013
+        ]
+      },
+      "properties": {
+        "name": "Diane Rouergate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.063126,
+          50.635751
+        ]
+      },
+      "properties": {
+        "name": "Dinastiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.004936,
+          40.710182
+        ]
+      },
+      "properties": {
+        "name": "Dingonek Street Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.548707,
+          47.249072
+        ]
+      },
+      "properties": {
+        "name": "Disc Jointed (DJ)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.37573,
+          43.296244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-share.svg"
+        },
+        "name": "Dolce Patata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.188468,
+          48.699628
+        ]
+      },
+      "properties": {
+        "name": "Donkey Funk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.360301,
+          48.852814
+        ]
+      },
+      "properties": {
+        "name": "Drop the Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.104777,
+          50.732674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Druckluft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.349958,
+          48.860565
+        ]
+      },
+      "properties": {
+        "name": "Dumb and Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749889,
+          48.582427
+        ]
+      },
+      "properties": {
+        "name": "El INSA Banda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.294075,
+          47.733796
+        ]
+      },
+      "properties": {
+        "name": "Elan Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.037231,
+          47.316483
+        ]
+      },
+      "properties": {
+        "name": "Elefanf'U"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.097175,
+          42.38841
+        ]
+      },
+      "properties": {
+        "name": "Emperor Norton’s Stationary Marching Band (ENSMB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.344422,
+          48.858616
+        ]
+      },
+      "properties": {
+        "name": "Encuivrés"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.891996,
+          47.137622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Energie Musique le May"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.904392,
+          43.212214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Espèce de fanfare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.587954,
+          48.838509
+        ]
+      },
+      "properties": {
+        "name": "Étoile Cirée"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.575658,
+          48.137164
+        ]
+      },
+      "properties": {
+        "name": "Express Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.295198,
+          49.8948
+        ]
+      },
+      "properties": {
+        "name": "Extrême Georgette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4465861,
+          43.3393828
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 8013565994,
+        "osm_key": "amenity",
+        "osm_value": "community_centre",
+        "type": "house",
+        "name": "Ezpeletarrak",
+        "street": "Merkatu plaza",
+        "district": "Haitzaga",
+        "city": "Espelette",
+        "county": "Pyrénées-Atlantiques",
+        "state": "Nouvelle-Aquitaine",
+        "country": "France",
+        "postcode": "64250",
+        "countrycode": "FR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.164715,
+          48.7126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "F[ens]foire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4829226,
+          43.5292199
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 155020,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "postcode": "31320",
+        "countrycode": "FR",
+        "name": "Fabul'auz",
+        "country": "France",
+        "state": "Occitanie",
+        "county": "Haute-Garonne",
+        "extent": [
+          1.4637802,
+          43.5427958,
+          1.5154755,
+          43.5138655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49615,
+          42.439943
+        ]
+      },
+      "properties": {
+        "name": "Fall Creek Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.140259,
+          49.290762
+        ]
+      },
+      "properties": {
+        "name": "False Creek Flats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.834028,
+          45.767074
+        ]
+      },
+      "properties": {
+        "name": "FAME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.058067,
+          50.639321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfaérobic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44084,
+          43.602149
+        ]
+      },
+      "properties": {
+        "name": "FanFar'Away"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.721862,
+          45.19082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfar'naque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.877316,
+          43.610104
+        ]
+      },
+      "properties": {
+        "name": "Fanfar'ov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.189634,
+          45.46448
+        ]
+      },
+      "properties": {
+        "name": "Fanfara Obbligatoria Non Convenzionale - FONC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.11723,
+          47.482662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare à On"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.875084,
+          43.612776
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Bakchich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4298372268676762,
+          43.628419064960376
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Banzai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.776494,
+          50.290602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare Chuke Machine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.182407,
+          46.938894
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Ciocarlia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.362854,
+          43.837696
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Club Brass Band et Plus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.075737,
+          44.2407641
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 187043,
+        "osm_key": "place",
+        "osm_value": "town",
+        "type": "city",
+        "postcode": "84110",
+        "countrycode": "FR",
+        "name": "Fanfare d'Origine Non Controlée - FONC",
+        "country": "France",
+        "state": "Provence-Alpes-Côte d'Azur",
+        "county": "Vaucluse",
+        "extent": [
+          5.0218757,
+          44.2793632,
+          5.0952753,
+          44.2001074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.675844,
+          48.60766
+        ]
+      },
+      "properties": {
+        "name": "Fanfare de l'Espace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.089819,
+          45.774106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare de l’Extrême"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.46101966721326,
+          43.53832936768746
+        ]
+      },
+      "properties": {
+        "name": "Fanfare de la Redonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.440681,
+          44.923404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare de la Touffe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.061635,
+          50.632131
+        ]
+      },
+      "properties": {
+        "name": "Fanfare de Lutte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.379900934075211,
+          43.29496512852333
+        ]
+      },
+      "properties": {
+        "name": "Fanfare de Lutte Marseille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.09594,
+          48.45801
+        ]
+      },
+      "properties": {
+        "name": "Fanfare De-ci, d'Eusa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.949046,
+          47.640598
+        ]
+      },
+      "properties": {
+        "name": "Fanfare du Bono"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.052509307861328,
+          47.313663455360334
+        ]
+      },
+      "properties": {
+        "name": "Fanfare du Contrevent"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.856242,
+          43.254007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare du Minervois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.748687,
+          48.583732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare Étudiante Universitaire (FEU)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.440008,
+          43.603671
+        ]
+      },
+      "properties": {
+        "name": "Fanfare FET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391325,
+          52.520778
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Gertrude"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488419,
+          48.386019
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Invisible de Brest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.33004,
+          48.096405
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Invisible de Douarnenez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.825721931755715,
+          48.576663918986405
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Invisible de Morlaix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.679025,
+          48.110003
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Invisible de Rennes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.757998,
+          47.655068
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Invisible de Vannes/Lorient"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.362718,
+          47.744547
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Invisible de Vannes/Lorient"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.549925,
+          47.212087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare Kafi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.832954,
+          45.764409
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Kärlek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.423724,
+          45.75256
+        ]
+      },
+      "properties": {
+        "name": "Fanfare l'Étoile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.27671,
+          45.585963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare Mouv'Menthée"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.768066,
+          45.783836
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Piston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.541377,
+          47.473997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare Pixels"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.425629,
+          48.935441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare Popcorn 007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.349143,
+          48.849016
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Poulpe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.708439,
+          48.043015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare Sans Fil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.574679,
+          44.835163
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Sauvage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.060079,
+          50.635799
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Tractopelle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.898057,
+          52.374289
+        ]
+      },
+      "properties": {
+        "name": "Fanfare van de Eerste Liefdesnacht"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.493709,
+          48.385585
+        ]
+      },
+      "properties": {
+        "name": "Fanfare Zébaliz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.491033,
+          48.385292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfarnaüm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485297,
+          41.891576
+        ]
+      },
+      "properties": {
+        "name": "Fanfaroma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.392012,
+          52.519302
+        ]
+      },
+      "properties": {
+        "name": "Fanfaroni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.703425,
+          40.416876
+        ]
+      },
+      "properties": {
+        "name": "Fanfarria Transfeminista"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.833148,
+          45.756999
+        ]
+      },
+      "properties": {
+        "name": "Fat Ducks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746863,
+          48.582058
+        ]
+      },
+      "properties": {
+        "name": "FEIS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.255772,
+          43.769692
+        ]
+      },
+      "properties": {
+        "name": "Fiati Sprecati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.438544,
+          43.601993
+        ]
+      },
+      "properties": {
+        "name": "Filibusters"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.078308,
+          33.828216
+        ]
+      },
+      "properties": {
+        "name": "Final Boss Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.336526,
+          48.856442
+        ]
+      },
+      "properties": {
+        "name": "Fines Pôlettes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.554823,
+          47.219452
+        ]
+      },
+      "properties": {
+        "name": "Fire Lips"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.060143,
+          50.638019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Flying Parpaing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.322018,
+          60.391872
+        ]
+      },
+      "properties": {
+        "name": "Force Marsjør Juzz-band (FMJB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.069963,
+          49.318912
+        ]
+      },
+      "properties": {
+        "name": "Freddy Fuddpucker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.679383,
+          48.112839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "French Mississippi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0831818282633467,
+          46.2113963962708
+        ]
+      },
+      "properties": {
+        "name": "Friends Street Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.429807,
+          50.793458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fun’tastic band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.341719,
+          48.858983
+        ]
+      },
+      "properties": {
+        "name": "Funk, Brass, Techno & Farandole (FBTF Fanfare)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.969231,
+          40.693394
+        ]
+      },
+      "properties": {
+        "name": "Funkrust Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.363791,
+          47.746668
+        ]
+      },
+      "properties": {
+        "name": "Funky Mood Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.447431,
+          43.602052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Funky Style Brass (FSB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.887108,
+          52.38563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gallowstreet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5703031,
+          43.2924385
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 74272,
+        "osm_key": "place",
+        "osm_value": "town",
+        "type": "city",
+        "postcode": "13400",
+        "countrycode": "FR",
+        "name": "Garlabanda",
+        "country": "France",
+        "state": "Provence-Alpes-Côte d'Azur",
+        "county": "Bouches-du-Rhône",
+        "extent": [
+          5.5132215,
+          43.3364276,
+          5.6139271,
+          43.2443496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.440791,
+          43.600696
+        ]
+      },
+      "properties": {
+        "name": "Gimmick 5 Syndicate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.355722,
+          48.849367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Glitter Beavers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4432001113891604,
+          43.601197014528275
+        ]
+      },
+      "properties": {
+        "name": "God Save The Cuivres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.340324,
+          48.854889
+        ]
+      },
+      "properties": {
+        "name": "Godfingers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.877702,
+          43.612106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gradisca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -77.031432,
+          -12.045104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Gran Banda Real Explosion Lima Perú"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.875565,
+          39.004678
+        ]
+      },
+      "properties": {
+        "name": "Greenbelt HONK! Situation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.094769,
+          49.277997
+        ]
+      },
+      "properties": {
+        "name": "Greenhorn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.151315,
+          46.157177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Groeland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.802125,
+          47.252364
+        ]
+      },
+      "properties": {
+        "name": "Harmonie de Maîche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.359856,
+          43.836818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hijos de Tuba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.544609,
+          47.219131
+        ]
+      },
+      "properties": {
+        "name": "Hit Micheline"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.103781,
+          49.253745
+        ]
+      },
+      "properties": {
+        "name": "Home Going Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.104327,
+          51.497814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 65606,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "countrycode": "GB",
+        "name": "Hootini",
+        "country": "Royaume-Uni",
+        "state": "Angleterre",
+        "county": "Grand Londres",
+        "extent": [
+          -0.5103751,
+          51.6918741,
+          0.3340155,
+          51.2867601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.331678,
+          48.861834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "House of Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.083771,
+          29.97858
+        ]
+      },
+      "properties": {
+        "name": "Human Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          6.128054,
+          49.61171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Hunneg-Strëpp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.726066,
+          45.188129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "In Your Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.55757,
+          47.215925
+        ]
+      },
+      "properties": {
+        "name": "Jack 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.137271,
+          48.805135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Jacky Parmentier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.019439,
+          43.575505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Jazz Band Le Cannet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549678,
+          47.249127
+        ]
+      },
+      "properties": {
+        "name": "Jeans Citron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357984,
+          48.850639
+        ]
+      },
+      "properties": {
+        "name": "Josettes Noires"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.055508,
+          50.635935
+        ]
+      },
+      "properties": {
+        "name": "Jukepop Fanfare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551433,
+          47.220151
+        ]
+      },
+      "properties": {
+        "name": "Kalbanik's Orchestra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35337,
+          48.85304
+        ]
+      },
+      "properties": {
+        "name": "Kamasuba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.756898,
+          35.021369
+        ]
+      },
+      "properties": {
+        "name": "Kawaii Brass Machine (KBM)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.194441,
+          48.351494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Kelteen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.349492,
+          50.850161
+        ]
+      },
+      "properties": {
+        "name": "KermesZ à l'est"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.455372,
+          47.638791
+        ]
+      },
+      "properties": {
+        "name": "Kes'Tudy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.133408,
+          48.802284
+        ]
+      },
+      "properties": {
+        "name": "Kiss my Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.341601,
+          48.850816
+        ]
+      },
+      "properties": {
+        "name": "Kosmonot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10431,
+          42.365774
+        ]
+      },
+      "properties": {
+        "name": "Kotoko Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37696,
+          43.296168
+        ]
+      },
+      "properties": {
+        "name": "KRNVG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9855424,
+          44.063084
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 76157,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "postcode": "12100",
+        "countrycode": "FR",
+        "name": "L’Écho des Avens",
+        "country": "France",
+        "state": "Occitanie",
+        "county": "Aveyron",
+        "extent": [
+          2.9186067,
+          44.0931216,
+          3.0561939,
+          44.0202979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.344806,
+          48.841893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "L'Ernestophone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.680401,
+          48.379029
+        ]
+      },
+      "properties": {
+        "name": "L’Étoile Nocéenne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.092106,
+          45.778928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "L'Hepatix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.081574,
+          43.612962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "L'J Funky"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.56163,
+          43.581401
+        ]
+      },
+      "properties": {
+        "name": "L'Orphéon de Garrafach'"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.166989,
+          48.710221
+        ]
+      },
+      "properties": {
+        "name": "La Band'à Joe (BaJ)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.44,
+          45.384496
+        ]
+      },
+      "properties": {
+        "name": "La Band'à Maurice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.023174,
+          47.294076
+        ]
+      },
+      "properties": {
+        "name": "La Band'allonnaise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.836821,
+          45.757236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Band'As"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.561797,
+          47.212951
+        ]
+      },
+      "properties": {
+        "name": "La Band'son"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.183839,
+          45.538459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Banda Do Ré"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.37972,
+          43.296589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La banda du dock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.571835,
+          45.501294
+        ]
+      },
+      "properties": {
+        "name": "La Banda Loca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.684175,
+          47.39369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La BandA'rtistes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.178705,
+          47.352417
+        ]
+      },
+      "properties": {
+        "name": "La Bande D'Eolas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.699504,
+          43.776322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Bérézina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.913094,
+          50.514668
+        ]
+      },
+      "properties": {
+        "name": "La Boîte à Zik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.164929,
+          44.139564
+        ]
+      },
+      "properties": {
+        "name": "La Bourandole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.359056,
+          48.859407
+        ]
+      },
+      "properties": {
+        "name": "La Brass de Pneu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.728855,
+          45.186816
+        ]
+      },
+      "properties": {
+        "name": "La Brass'tille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.056002,
+          50.63769
+        ]
+      },
+      "properties": {
+        "name": "La Brigade des Tubes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.361964,
+          48.850569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Brigade du Cuivre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357147,
+          48.936258
+        ]
+      },
+      "properties": {
+        "name": "La Brique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.831367,
+          45.758466
+        ]
+      },
+      "properties": {
+        "name": "La Cacophonie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.663195,
+          43.544691
+        ]
+      },
+      "properties": {
+        "name": "La Charanga Ventolín"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346697,
+          48.855525
+        ]
+      },
+      "properties": {
+        "name": "La Clé de Lutte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.355586,
+          50.848616
+        ]
+      },
+      "properties": {
+        "name": "La Clinik du Dr Poembak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342212,
+          48.853449
+        ]
+      },
+      "properties": {
+        "name": "La Confizerie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.722206,
+          45.189111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La FAN de Grenoble"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.728855,
+          45.192033
+        ]
+      },
+      "properties": {
+        "name": "La Fanf' À L'Ouest (FAO)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.733211,
+          45.190188
+        ]
+      },
+      "properties": {
+        "name": "La Fanfare A la Noix",
+        "description": "FAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.361422,
+          48.855474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Fanfare des Filles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.144619,
+          46.199914
+        ]
+      },
+      "properties": {
+        "name": "La Fanfare du Château"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.348228,
+          47.238686
+        ]
+      },
+      "properties": {
+        "name": "La Fanfare du Coin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3333293936316273,
+          48.858559939112574
+        ]
+      },
+      "properties": {
+        "name": "La Fanfare Invisible"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.634712,
+          46.522286
+        ]
+      },
+      "properties": {
+        "name": "La Fanfare Militante de Lausanne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.700293,
+          47.386089
+        ]
+      },
+      "properties": {
+        "name": "La Fanfare Saugrenue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.721742,
+          45.18789
+        ]
+      },
+      "properties": {
+        "name": "La Fanfare-Chorale de Lutte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.633181,
+          -23.550755
+        ]
+      },
+      "properties": {
+        "name": "La Fanfarra Clandestina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175164,
+          41.379997
+        ]
+      },
+      "properties": {
+        "name": "La Fanfarria Contratiempo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.825208,
+          45.749723
+        ]
+      },
+      "properties": {
+        "name": "La Fanfat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.043792,
+          48.781448
+        ]
+      },
+      "properties": {
+        "name": "La Fanfoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.550928,
+          47.24913
+        ]
+      },
+      "properties": {
+        "name": "La Fanfrale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.362136,
+          46.661002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Fansmare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.724467,
+          47.168273
+        ]
+      },
+      "properties": {
+        "name": "La Fanvrôle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.437793,
+          43.341238
+        ]
+      },
+      "properties": {
+        "name": "La Farigoule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.355209,
+          48.867847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Fessée"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.652297,
+          47.703914
+        ]
+      },
+      "properties": {
+        "name": "La FlanFar Aux Pruneaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.547742,
+          47.220763
+        ]
+      },
+      "properties": {
+        "name": "La Fonfare des Balkons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.019781,
+          50.610097
+        ]
+      },
+      "properties": {
+        "name": "La Frontale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.679224,
+          48.111429
+        ]
+      },
+      "properties": {
+        "name": "La GangRennes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.349541,
+          48.867367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Grâce de l'Hippopotame"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.57013,
+          44.839013
+        ]
+      },
+      "properties": {
+        "name": "La Grasse Bande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.350452,
+          48.851176
+        ]
+      },
+      "properties": {
+        "name": "La Locomotive Fanfare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.817237,
+          46.177527
+        ]
+      },
+      "properties": {
+        "name": "La Lyre en Délire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.436247,
+          43.600051
+        ]
+      },
+      "properties": {
+        "name": "La ManiFanfare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.443737,
+          43.603578
+        ]
+      },
+      "properties": {
+        "name": "La Mécanique des Cuivres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.731773,
+          45.192048
+        ]
+      },
+      "properties": {
+        "name": "La Mort Subite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.745061,
+          30.266629
+        ]
+      },
+      "properties": {
+        "name": "La Murga de Austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.214574,
+          50.743869
+        ]
+      },
+      "properties": {
+        "name": "La P'tite Teuf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          6.12402,
+          45.902727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Ripaille à sons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352083,
+          48.856922
+        ]
+      },
+      "properties": {
+        "name": "La Rotisserie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.64918,
+          44.258124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Tête Dans L'Cuivre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.689499,
+          47.389895
+        ]
+      },
+      "properties": {
+        "name": "La Vaginale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.088762,
+          49.440059
+        ]
+      },
+      "properties": {
+        "name": "La Vashfol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.362323,
+          43.835045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lady Jaja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.630587,
+          43.678262
+        ]
+      },
+      "properties": {
+        "name": "Lady Maga et les Sax Toys (LMST)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.998666,
+          46.252447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lard Peige"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.572813,
+          44.836882
+        ]
+      },
+      "properties": {
+        "name": "Le Beat Cheese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          6.63154,
+          47.083614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Fin's Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.569157,
+          47.190121
+        ]
+      },
+      "properties": {
+        "name": "Le Grand Machin Chose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35189,
+          48.870925
+        ]
+      },
+      "properties": {
+        "name": "Le Gros Tube"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.832697,
+          45.760727
+        ]
+      },
+      "properties": {
+        "name": "Le Gumbo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.358831,
+          48.864023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Lobby"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.546755,
+          47.217149
+        ]
+      },
+      "properties": {
+        "name": "Le Point de Côté"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.375404,
+          43.294387
+        ]
+      },
+      "properties": {
+        "name": "Le Pompier Poney Club (PPC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.347072,
+          48.841496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Pouêt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.649054,
+          46.688007
+        ]
+      },
+      "properties": {
+        "name": "Le Réveil Vellois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549201,
+          47.213272
+        ]
+      },
+      "properties": {
+        "name": "Le Terminus Brass Band (TBB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.558707,
+          47.214627
+        ]
+      },
+      "properties": {
+        "name": "Le Toucan Magique Brousse Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.124294,
+          49.257274
+        ]
+      },
+      "properties": {
+        "name": "Legion of Flying Monkeys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352319,
+          48.848747
+        ]
+      },
+      "properties": {
+        "name": "Leo Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.548514,
+          47.218169
+        ]
+      },
+      "properties": {
+        "name": "Les Anchahuteurs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5114818,
+          43.8598174
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 74634,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "postcode": "84750",
+        "countrycode": "FR",
+        "name": "Les Bontuillos",
+        "country": "France",
+        "state": "Provence-Alpes-Côte d'Azur",
+        "county": "Vaucluse",
+        "extent": [
+          5.46678,
+          43.8938399,
+          5.5614709,
+          43.8175727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5501095,
+          48.5205106
+        ]
+      },
+      "properties": {
+        "name": "Les Boudingues"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.03151,
+          49.256182
+        ]
+      },
+      "properties": {
+        "name": "Les Boules de Feu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.552162,
+          47.212689
+        ]
+      },
+      "properties": {
+        "name": "Les Carreleurs Américains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342041,
+          48.85191
+        ]
+      },
+      "properties": {
+        "name": "Les Chaos par UpperCuite (CUC)",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.354277,
+          50.846692
+        ]
+      },
+      "properties": {
+        "name": "Les Chasseurs de Prinkères"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.138171,
+          48.802948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Chiens de la Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.341027,
+          46.579837
+        ]
+      },
+      "properties": {
+        "name": "Les Chiures de Mouches"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.127056,
+          48.803924
+        ]
+      },
+      "properties": {
+        "name": "Les Cons D'or"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.232016,
+          44.091746
+        ]
+      },
+      "properties": {
+        "name": "Les Copains d'abord du pays dignois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.339045,
+          48.858266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Corsaires du Swing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.428665,
+          47.327654
+        ]
+      },
+      "properties": {
+        "name": "Les Croq'notes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.429951517762468,
+          47.270218530356736
+        ]
+      },
+      "properties": {
+        "name": "Les Croq'notes - Batterie Fanfare Côte Sauvage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.359357,
+          48.856936
+        ]
+      },
+      "properties": {
+        "name": "Les Cu(l)rares"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353134,
+          48.862202
+        ]
+      },
+      "properties": {
+        "name": "Les Cui’staches"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.472673,
+          43.492596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les dauphins Bayonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.320513,
+          49.178
+        ]
+      },
+      "properties": {
+        "name": "Les Diables Bleus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.557363,
+          47.207177
+        ]
+      },
+      "properties": {
+        "name": "Les Durs à Cuivre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.084248,
+          46.181747
+        ]
+      },
+      "properties": {
+        "name": "Les Echos de Jarnages"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.580186,
+          45.176017
+        ]
+      },
+      "properties": {
+        "name": "Les Embouchés"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          6.606615,
+          47.058861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Fanfa'ronds"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.444552,
+          43.600983
+        ]
+      },
+      "properties": {
+        "name": "Les Fanflures Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.166742,
+          48.711084
+        ]
+      },
+      "properties": {
+        "name": "Les Fanfoirés"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82965,
+          45.755757
+        ]
+      },
+      "properties": {
+        "name": "Les Fantômes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.417342,
+          48.86876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Fines Polettes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.438887,
+          43.60535
+        ]
+      },
+      "properties": {
+        "name": "Les Frères Pouetards"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.734134,
+          45.188911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Garces Embouchées"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8786486,
+          44.0713054
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 1359052,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "postcode": "12490",
+        "countrycode": "FR",
+        "name": "Les Georges du Tarn",
+        "country": "France",
+        "state": "Occitanie",
+        "county": "Aveyron",
+        "extent": [
+          2.7859554,
+          44.12384,
+          2.9016167,
+          44.0546399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.344508,
+          48.850738
+        ]
+      },
+      "properties": {
+        "name": "Les GratKiPoils (GKP)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.557441,
+          47.213476
+        ]
+      },
+      "properties": {
+        "name": "Les Homards de Vinci"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.396774,
+          43.848193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Infatigables"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.08093,
+          46.214942
+        ]
+      },
+      "properties": {
+        "name": "Les Insupportables"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.874279,
+          43.610881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Judas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.879568,
+          43.610294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Kadors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.829435,
+          45.75113
+        ]
+      },
+      "properties": {
+        "name": "Les Krapos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.353102,
+          48.864833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Lapins Superstars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.542978,
+          47.216012
+        ]
+      },
+      "properties": {
+        "name": "Les Lentilles Saucisses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357812,
+          48.81229
+        ]
+      },
+      "properties": {
+        "name": "Les Makabés"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.262274,
+          48.35047
+        ]
+      },
+      "properties": {
+        "name": "Les Métronosiques"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3385,
+          48.855991
+        ]
+      },
+      "properties": {
+        "name": "Les moustaches"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348242,
+          48.850286
+        ]
+      },
+      "properties": {
+        "name": "Les Muses Tanguent"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.337132,
+          48.847972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-share.svg"
+        },
+        "name": "Les Oiseaux de Trottoir",
+        "description": "Fanfare itinérante"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.444573,
+          43.605116
+        ]
+      },
+      "properties": {
+        "name": "Les Open Bardes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.337948,
+          48.866721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Ouaiscécool"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.270552,
+          45.834271
+        ]
+      },
+      "properties": {
+        "name": "Les P'tits Culs Ivres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52008,
+          43.882676
+        ]
+      },
+      "properties": {
+        "name": "Les perturbés"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.156166,
+          47.34522
+        ]
+      },
+      "properties": {
+        "name": "Les Pigo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356761,
+          48.85208
+        ]
+      },
+      "properties": {
+        "name": "Les Plaies Mobiles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.151118,
+          46.155192
+        ]
+      },
+      "properties": {
+        "name": "Les Princes de LR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0777594,
+          44.1006693
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 74109,
+        "osm_key": "place",
+        "osm_value": "town",
+        "type": "city",
+        "postcode": "12100",
+        "countrycode": "FR",
+        "name": "Les Radis Noirs",
+        "country": "France",
+        "state": "Occitanie",
+        "county": "Aveyron",
+        "extent": [
+          2.9906445,
+          44.1798501,
+          3.2448582,
+          44.0166725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.325975,
+          48.094811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Reuz Bonbon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35013,
+          48.863021
+        ]
+      },
+      "properties": {
+        "name": "Les Rillettes de Belleville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.131852,
+          48.806029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Scies Roses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.613295,
+          50.72563
+        ]
+      },
+      "properties": {
+        "name": "Les Sexpiston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.554874,
+          47.472895
+        ]
+      },
+      "properties": {
+        "name": "Les sKroks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.725079,
+          45.191277
+        ]
+      },
+      "properties": {
+        "name": "Les Sonenbulles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.553085,
+          47.216522
+        ]
+      },
+      "properties": {
+        "name": "Les Soubas Résille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1928771,
+          44.5717367
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 93401,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "postcode": "33490",
+        "countrycode": "FR",
+        "name": "Les Sous-Fifres de Saint-Pierre",
+        "country": "France",
+        "state": "Nouvelle-Aquitaine",
+        "county": "Gironde",
+        "extent": [
+          -0.2089447,
+          44.5961283,
+          -0.1741829,
+          44.5654414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.554115,
+          47.221769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Transformateurs Acoustiques"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.555724,
+          47.216741
+        ]
+      },
+      "properties": {
+        "name": "Les Trompettes de Fallope (TDF)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.491293,
+          44.426471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Les Troubl'Fêtes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.442213,
+          43.604223
+        ]
+      },
+      "properties": {
+        "name": "Les Trous Balourds"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.349561,
+          48.850526
+        ]
+      },
+      "properties": {
+        "name": "Les Tyrassonores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.750289,
+          46.105241
+        ]
+      },
+      "properties": {
+        "name": "Les Verres Luisants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.028399,
+          49.255384
+        ]
+      },
+      "properties": {
+        "name": "Les Vieux des Boules"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353563,
+          48.860141
+        ]
+      },
+      "properties": {
+        "name": "Les Zôtres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352641,
+          48.858165
+        ]
+      },
+      "properties": {
+        "name": "LGMX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335753,
+          48.852602
+        ]
+      },
+      "properties": {
+        "name": "Lick Horns Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.270937,
+          44.339182
+        ]
+      },
+      "properties": {
+        "name": "Limena glazba Jajce"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.628412,
+          41.876176
+        ]
+      },
+      "properties": {
+        "name": "Live Wire Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.724735,
+          45.189175
+        ]
+      },
+      "properties": {
+        "name": "LMZG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.575752,
+          44.841721
+        ]
+      },
+      "properties": {
+        "name": "Los 2 Seiche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.443549,
+          43.599954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Los Brasseros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.468227,
+          45.099942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Los Campaneros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.447999,
+          45.824112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Los Cassanoïalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.38593,
+          43.23759
+        ]
+      },
+      "properties": {
+        "name": "Los Compañeros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.537579,
+          47.307732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Los Druyeros Banda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.473863,
+          43.566477
+        ]
+      },
+      "properties": {
+        "name": "Los Soupaeros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.263291,
+          43.539823
+        ]
+      },
+      "properties": {
+        "name": "Los Tchaopinos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.568886,
+          44.836639
+        ]
+      },
+      "properties": {
+        "name": "Los Teoporos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.331934,
+          48.867878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Lous Mascarets"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0895,
+          43.585062
+        ]
+      },
+      "properties": {
+        "name": "Lous Respounchous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.180344,
+          30.415723
+        ]
+      },
+      "properties": {
+        "name": "LSU Trombones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.942108,
+          40.678946
+        ]
+      },
+      "properties": {
+        "name": "Lucky Chops"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.03971,
+          46.467276
+        ]
+      },
+      "properties": {
+        "name": "Lyre Txaranga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.547889,
+          47.475499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mademoiselle Orchestra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.09351,
+          45.775486
+        ]
+      },
+      "properties": {
+        "name": "MagmatiK Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.436355,
+          43.60479
+        ]
+      },
+      "properties": {
+        "name": "Makemba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.372357,
+          43.293763
+        ]
+      },
+      "properties": {
+        "name": "Mamie Vortex"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.354593,
+          48.856838
+        ]
+      },
+      "properties": {
+        "name": "Mammouth Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.344465,
+          48.860762
+        ]
+      },
+      "properties": {
+        "name": "Mango Coco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.468534,
+          50.883326
+        ]
+      },
+      "properties": {
+        "name": "Manicrack's"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.826775,
+          45.752463
+        ]
+      },
+      "properties": {
+        "name": "Marcel Frontale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.06036,
+          45.56154
+        ]
+      },
+      "properties": {
+        "name": "Marciapé Street Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.612501458150613,
+          50.71960927681847
+        ]
+      },
+      "properties": {
+        "name": "Mario Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438194,
+          47.070823
+        ]
+      },
+      "properties": {
+        "name": "Massala Brass Kollektiv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.186132,
+          45.465421
+        ]
+      },
+      "properties": {
+        "name": "Mefisto Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3382,
+          48.870389
+        ]
+      },
+      "properties": {
+        "name": "Merak Balkan Block Party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.989319,
+          53.550507
+        ]
+      },
+      "properties": {
+        "name": "Meute"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.300735,
+          49.895049
+        ]
+      },
+      "properties": {
+        "name": "Mini Brass Amienois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.740598,
+          30.268389
+        ]
+      },
+      "properties": {
+        "name": "Minor Mishap Marching Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.372791,
+          48.208672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mnozil Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346804,
+          48.859718
+        ]
+      },
+      "properties": {
+        "name": "Moktar Sound sysTem (MST)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.094933,
+          49.440273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Mona Lisa Klaxon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3382,
+          48.862513
+        ]
+      },
+      "properties": {
+        "name": "MontyPistons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -73.990139,
+          40.641127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Moon Hooch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.749567,
+          30.273912
+        ]
+      },
+      "properties": {
+        "name": "Moon Tower Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.149745,
+          46.155756
+        ]
+      },
+      "properties": {
+        "name": "Mouette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346311,
+          48.852503
+        ]
+      },
+      "properties": {
+        "name": "Mouette et Charbons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.371714,
+          43.296418
+        ]
+      },
+      "properties": {
+        "name": "Moufle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.385657,
+          48.871645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Moules Libres Flamboyantes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.098171,
+          43.640346
+        ]
+      },
+      "properties": {
+        "name": "Mudanza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347791,
+          48.848055
+        ]
+      },
+      "properties": {
+        "name": "Mugi Brass Gang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.160543,
+          50.723674
+        ]
+      },
+      "properties": {
+        "name": "Music Band by BFS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          135.501193,
+          34.693448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Music Omotenashi Sisters (MOS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407093,
+          37.786386
+        ]
+      },
+      "properties": {
+        "name": "Musicians Action Group"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          6.172559,
+          49.115302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Musicos a Gogos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.353375,
+          50.849672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Naft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320619,
+          47.599566
+        ]
+      },
+      "properties": {
+        "name": "Neon Brass Party"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.437117,
+          43.341964
+        ]
+      },
+      "properties": {
+        "name": "Ni Queue Ni Pouet (NQNP)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346289,
+          48.863995
+        ]
+      },
+      "properties": {
+        "name": "NOLA French Connection"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.911563,
+          49.206593
+        ]
+      },
+      "properties": {
+        "name": "Noxious Obs Society"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.344358,
+          48.852263
+        ]
+      },
+      "properties": {
+        "name": "Nyctalopes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348585,
+          48.857431
+        ]
+      },
+      "properties": {
+        "name": "Nymphonik Orchestra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6253361,
+          6.4990718
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1669842684,
+        "osm_key": "place",
+        "osm_value": "city",
+        "type": "city",
+        "countrycode": "BJ",
+        "name": "Olaïtan Africa Brass Band",
+        "country": "Bénin",
+        "state": "Ouémé",
+        "county": "Porto-Novo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.266145,
+          48.724916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Onlyfanfare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.676506,
+          48.112243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ooz Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34292,
+          48.862682
+        ]
+      },
+      "properties": {
+        "name": "Open Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          6.14487,
+          46.202407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Organisme Utopique de Mécanique Pulsée Hexadécimale (OUMPH)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.189956,
+          45.46691
+        ]
+      },
+      "properties": {
+        "name": "Ottoni a scoppio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.558471,
+          47.218548
+        ]
+      },
+      "properties": {
+        "name": "PanamaTong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.445764,
+          43.603974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Panda's Cover Gang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.903191,
+          43.21201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Parade Hip-Hop Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.442578,
+          43.605738
+        ]
+      },
+      "properties": {
+        "name": "Pash Pash Orkestar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.826415,
+          48.580932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pattes à Caisse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.071894,
+          48.297013
+        ]
+      },
+      "properties": {
+        "name": "PeaceTone Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.895989,
+          44.933465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pekno Parade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.352356,
+          50.846564
+        ]
+      },
+      "properties": {
+        "name": "Pelouse Grass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.419787,
+          44.012015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Pena del Fuego"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.727567672729493,
+          45.18883336326693
+        ]
+      },
+      "properties": {
+        "name": "Peña les 38 Tonnes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.677893,
+          48.111951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Phanphare Techno de Rennes (PTDR)",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.323635,
+          50.597343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Piccalilli Project "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.358155,
+          48.854282
+        ]
+      },
+      "properties": {
+        "name": "Pikolo Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.443061,
+          43.602079
+        ]
+      },
+      "properties": {
+        "name": "Pim Pam Poum Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.731516,
+          45.187875
+        ]
+      },
+      "properties": {
+        "name": "Pink It Black"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.062149,
+          50.640022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Piston Bière Orchestra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4420413970947266,
+          43.60079300610841
+        ]
+      },
+      "properties": {
+        "name": "PlanPlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.344723,
+          48.854296
+        ]
+      },
+      "properties": {
+        "name": "Poil O'Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.026532,
+          48.703056
+        ]
+      },
+      "properties": {
+        "name": "Poney M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.147537,
+          46.201562
+        ]
+      },
+      "properties": {
+        "name": "Post Tenebrass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.731146,
+          48.224101
+        ]
+      },
+      "properties": {
+        "name": "Potes en Othe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.574594,
+          44.844338
+        ]
+      },
+      "properties": {
+        "name": "Poules & The Gang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.545921,
+          45.580118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Poussez pas Mémé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.346884,
+          48.869824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "PRESS//BEAT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8183,
+          48.1243
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 173336,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "postcode": "35590",
+        "countrycode": "FR",
+        "name": "Prise de Bec",
+        "country": "France",
+        "state": "Bretagne",
+        "county": "Ille-et-Vilaine",
+        "extent": [
+          -1.8386158,
+          48.1397813,
+          -1.7918969,
+          48.1050321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.836559,
+          45.763092
+        ]
+      },
+      "properties": {
+        "name": "Pustule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.945406,
+          44.196082
+        ]
+      },
+      "properties": {
+        "name": "Quadrille Sisteronnais Fanfare du Boumas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.753215,
+          30.269816
+        ]
+      },
+      "properties": {
+        "name": "Queens of HONK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.342423,
+          20.673183
+        ]
+      },
+      "properties": {
+        "name": "Quinta Kalavera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.212329,
+          47.271397
+        ]
+      },
+      "properties": {
+        "name": "Rad'Otters Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.350023,
+          48.855765
+        ]
+      },
+      "properties": {
+        "name": "Radio Kaizman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.058534,
+          43.23487
+        ]
+      },
+      "properties": {
+        "name": "Rambal et Sagan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.677429,
+          48.113132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Red Line Crossers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.343403,
+          48.850166
+        ]
+      },
+      "properties": {
+        "name": "RGB Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319975,
+          47.605353
+        ]
+      },
+      "properties": {
+        "name": "Rise Up! Action Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356074,
+          48.858193
+        ]
+      },
+      "properties": {
+        "name": "Rolland Merguez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549931,
+          47.248183
+        ]
+      },
+      "properties": {
+        "name": "Roller Toaster (RT)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.957644,
+          40.726966
+        ]
+      },
+      "properties": {
+        "name": "Rude Mechanical Orchestra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.442535,
+          43.600672
+        ]
+      },
+      "properties": {
+        "name": "Salut Fred Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.358755,
+          48.861539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Sauce Meringue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.946726,
+          48.817143
+        ]
+      },
+      "properties": {
+        "name": "Saveur du Soir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.053691,
+          42.35718
+        ]
+      },
+      "properties": {
+        "name": "Second Line Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.727171,
+          47.211537
+        ]
+      },
+      "properties": {
+        "name": "Shot Brass Tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.076933,
+          40.586842
+        ]
+      },
+      "properties": {
+        "name": "Shtonk Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.459803,
+          46.947508
+        ]
+      },
+      "properties": {
+        "name": "Sneaky Funk Squad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.061711,
+          14.605262
+        ]
+      },
+      "properties": {
+        "name": "Soopah Mario Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.165686,
+          48.710635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Spicy Zoumis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.745775,
+          48.583699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Splash Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.691254,
+          47.395852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Stomp in ze Pub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.770395,
+          45.78249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Str'ompouet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.683177,
+          45.076491
+        ]
+      },
+      "properties": {
+        "name": "Strampalabanda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.744331,
+          48.582525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Stras' Boum Boum (SBB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.391921,
+          47.26582
+        ]
+      },
+      "properties": {
+        "name": "Street Noise Orchestra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.395448,
+          63.422446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Strindens Promenade Orchester"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.681839,
+          47.387077
+        ]
+      },
+      "properties": {
+        "name": "Suck Da Head"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.445067,
+          43.602366
+        ]
+      },
+      "properties": {
+        "name": "Super Panela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.373747,
+          43.294051
+        ]
+      },
+      "properties": {
+        "name": "Super Pétale Super"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83598,
+          45.759395
+        ]
+      },
+      "properties": {
+        "name": "Super Smash Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551293,
+          47.209868
+        ]
+      },
+      "properties": {
+        "description": "Anciennement Kapital Gros Bruit (KGB)",
+        "name": "Superflan!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.441848,
+          43.599507
+        ]
+      },
+      "properties": {
+        "name": "Supersonic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          32.56073,
+          0.350784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Superstar Brassband"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.339272,
+          48.850131
+        ]
+      },
+      "properties": {
+        "name": "Supertromp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.093384,
+          30.009504
+        ]
+      },
+      "properties": {
+        "name": "Sweet Magnolia Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.589228,
+          46.941898
+        ]
+      },
+      "properties": {
+        "name": "System Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9872646331787114,
+          48.68536142859275
+        ]
+      },
+      "properties": {
+        "name": "TABASS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333329,
+          48.855623
+        ]
+      },
+      "properties": {
+        "name": "TabataKash Fanfare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.439194,
+          47.245795
+        ]
+      },
+      "properties": {
+        "name": "Tacomarama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374374,
+          43.297636
+        ]
+      },
+      "properties": {
+        "name": "Tahar Tagl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.349529,
+          48.853308
+        ]
+      },
+      "properties": {
+        "name": "Talku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -105.411211,
+          20.898981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Taller de Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.354679,
+          48.854466
+        ]
+      },
+      "properties": {
+        "name": "Tana Tupaia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.065244,
+          44.524814
+        ]
+      },
+      "properties": {
+        "name": "Tapacymbal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346718,
+          48.851148
+        ]
+      },
+      "properties": {
+        "name": "Tapages Fanfare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.411949,
+          63.418997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TapHel & Toddy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.545733,
+          47.470357
+        ]
+      },
+      "properties": {
+        "name": "Tekila Banda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.576783,
+          44.837128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TeuKeuTeu Brass Band (TKT BB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.334917,
+          48.860212
+        ]
+      },
+      "properties": {
+        "name": "Texas Couscous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.60157,
+          51.448738
+        ]
+      },
+      "properties": {
+        "name": "The Ambling Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346128,
+          48.849545
+        ]
+      },
+      "properties": {
+        "name": "The BrassTa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.129959,
+          49.274301
+        ]
+      },
+      "properties": {
+        "name": "The Carnival Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -122.326839,
+          47.611544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "The Filthy FemCorps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -122.310364,
+          47.611024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "The M9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.579002,
+          55.685908
+        ]
+      },
+      "properties": {
+        "name": "The Pølse Horns"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333715,
+          48.857558
+        ]
+      },
+      "properties": {
+        "name": "The Saints-Pères' Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.154167,
+          46.156545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "The Spotted Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.106216,
+          51.515553
+        ]
+      },
+      "properties": {
+        "name": "The Stroud Red Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05648,
+          42.36254
+        ]
+      },
+      "properties": {
+        "name": "The Velvet Dirtmunchers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.819066,
+          49.423287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TheCompeers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347212,
+          48.861694
+        ]
+      },
+      "properties": {
+        "name": "Thermomix 3000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -73.99875,
+          40.687928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Thundersmack"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.053926,
+          45.0449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tigres et Canapés"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.481102,
+          41.892526
+        ]
+      },
+      "properties": {
+        "name": "Titubanda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31019,
+          47.602633
+        ]
+      },
+      "properties": {
+        "name": "TMB Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.341075,
+          48.868427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TMDV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90031,
+          52.372416
+        ]
+      },
+      "properties": {
+        "name": "Toeters en Bellen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -73.948064,
+          40.70625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Too Many Zooz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.168427,
+          48.710674
+        ]
+      },
+      "properties": {
+        "name": "Trip'n Tonic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.378526,
+          43.297526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Trip'Tyk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.370512,
+          43.296324
+        ]
+      },
+      "properties": {
+        "name": "Tropical Raclette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.641811,
+          59.858695
+        ]
+      },
+      "properties": {
+        "name": "Tupplurarna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.575581,
+          44.838526
+        ]
+      },
+      "properties": {
+        "name": "Turbo Dièse 2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.687675,
+          47.38359
+        ]
+      },
+      "properties": {
+        "name": "Turbo Joggo Combo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.373892,
+          43.296125
+        ]
+      },
+      "properties": {
+        "name": "Tuspareik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.677132,
+          42.528204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Txaranga Malatxo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347168922424317,
+          48.8504417636007
+        ]
+      },
+      "properties": {
+        "name": "Tzislav Orkestar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.748816,
+          48.581447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Ultra violettes",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.827719,
+          45.75423
+        ]
+      },
+      "properties": {
+        "name": "Velcros Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.554694,
+          47.213009
+        ]
+      },
+      "properties": {
+        "name": "Very Bad Fanfare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.886341,
+          45.771834
+        ]
+      },
+      "properties": {
+        "name": "Villeur'Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.329409,
+          48.863591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Viteuf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.258492,
+          45.910242
+        ]
+      },
+      "properties": {
+        "name": "VLQJTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37446,
+          43.295293
+        ]
+      },
+      "properties": {
+        "name": "VNB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356675,
+          48.860085
+        ]
+      },
+      "properties": {
+        "name": "Voiture 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.168228,
+          48.709891
+        ]
+      },
+      "properties": {
+        "name": "Volcanic CocoPulse (VCP)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.128625,
+          48.80095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Waza Beats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.154742,
+          45.647882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Well Parked Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.547356,
+          47.214788
+        ]
+      },
+      "properties": {
+        "name": "West Costars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.720434,
+          50.980911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Woodfalls Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.375466,
+          39.47463
+        ]
+      },
+      "properties": {
+        "name": "Xaranga’n Roll "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.726814,
+          45.192752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Yebarov"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.753215,
+          30.272726
+        ]
+      },
+      "properties": {
+        "name": "Yes Ma'am Brass Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.219753,
+          43.056064
+        ]
+      },
+      "properties": {
+        "name": "Young Funky Brass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.390141,
+          50.606829
+        ]
+      },
+      "properties": {
+        "name": "Zamuzettes Belgium Band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.378004,
+          43.299041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Zapjevala Orkestar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1365,
+          50.606624
+        ]
+      },
+      "properties": {
+        "name": "Ze Big Bandhoulle (ZBB)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.384771,
+          47.097138
+        ]
+      },
+      "properties": {
+        "name": "Ze Box'Son"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.336054,
+          48.854663
+        ]
+      },
+      "properties": {
+        "name": "Zebra Rayures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.723909,
+          41.223657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "ZeBRASS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.827397,
+          45.759993
+        ]
+      },
+      "properties": {
+        "name": "ZEPH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.333836,
+          50.57408
+        ]
+      },
+      "properties": {
+        "name": "Zikadonf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -4.102535,
+          47.996068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Zingueurs band"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.831066,
+          45.753691
+        ]
+      },
+      "properties": {
+        "name": "Zouz Machine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.556561,
+          47.211479
+        ]
+      },
+      "properties": {
+        "name": "Zygos Brass Band"
+      }
+    }
+  ]
+}

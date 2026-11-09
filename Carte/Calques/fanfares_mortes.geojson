@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.437461,
+          43.341691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "3francs6sous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549845,
+          47.216187
+        ]
+      },
+      "properties": {
+        "name": "Crazy Froc Orkestar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.43702,
+          43.341519
+        ]
+      },
+      "properties": {
+        "name": "Far'N'night"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.769806,
+          45.78321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Contrepouëterie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.545553,
+          47.213447
+        ]
+      },
+      "properties": {
+        "name": "La Fanfarchi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.553407,
+          47.214263
+        ]
+      },
+      "properties": {
+        "name": "La Fanfare Qui Joue Que Du Britney Spears (LFQJQDBS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549201,
+          47.249669
+        ]
+      },
+      "properties": {
+        "name": "Les soupapes oignons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383708,
+          43.295324
+        ]
+      },
+      "properties": {
+        "name": "Louise Michel Cacophonie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549383,
+          47.248686
+        ]
+      },
+      "properties": {
+        "name": "Note in Gamme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.381114,
+          43.298612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Odyssound"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.151786,
+          46.158321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "The Spotted Fat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.37652,
+          43.297502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Wifi Gratuit",
+        "_umap_options": {
+          "iconUrl": "/uploads/pictogram/bicycle-share.svg"
+        }
+      }
+    }
+  ]
+}

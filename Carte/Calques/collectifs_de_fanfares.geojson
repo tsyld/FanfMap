@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.435986,
+          43.341784
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.358799,
+          48.865893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Association du COncours Universitaire des Fanfares Etudiantes de Médecine (ACOUFEM)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.052568,
+          50.6372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Baraque à Fanfares"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.571933,
+          44.843743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Collectif 33 S'Export"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.446601,
+          43.601993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Collectif Fanfarnaüm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.553257,
+          47.218069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "FFFFAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.360386,
+          48.860959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Info Pouet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.72695,
+          45.19076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Info Pouet Grenoble"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.835272,
+          45.76673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Info Pouet Lyon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.696627,
+          47.39462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Info Pouet Tours"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.378392,
+          43.295947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Jean Jaurès Brass All Star (JJBAS)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.677884,
+          47.392123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Saugrenue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.730615,
+          45.190909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Le Ministère du Son"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.340912,
+          48.865317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Réseau Fanfare Sans Frontières (FSF)"
+      }
+    }
+  ]
+}

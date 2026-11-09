@@ -1,0 +1,1010 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3745929,
+          43.9564563
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 74435,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "postcode": "32100",
+        "countrycode": "FR",
+        "name": "Bandas à Condom",
+        "country": "France",
+        "state": "Occitanie",
+        "county": "Gers",
+        "extent": [
+          0.299759,
+          44.0295576,
+          0.4567398,
+          43.9009546
+        ],
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          13.393407,
+          52.523402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Berlin Brass Festival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.15299,
+          46.23899
+        ]
+      },
+      "properties": {
+        "name": "Bouge ton Bouble",
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44217,
+          43.603361
+        ]
+      },
+      "properties": {
+        "name": "Brass dans la Garonne",
+        "description": "Septembre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.154578,
+          47.34542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Brass Tempête",
+        "description": "Septembre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3476291,
+          47.2349407
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1655928043,
+        "osm_key": "place",
+        "osm_value": "locality",
+        "type": "locality",
+        "postcode": "44430",
+        "countrycode": "FR",
+        "name": "Brass'Pagaille",
+        "country": "France",
+        "city": "Le Loroux-Bottereau",
+        "district": "Le Moulin Chartrie",
+        "state": "Pays de la Loire",
+        "county": "Loire-Atlantique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          5.293704,
+          46.28787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Bress'tival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1624156,
+          49.0473467
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 550091,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "postcode": "27930",
+        "countrycode": "FR",
+        "name": "Ca Fanfaronne Grav'",
+        "country": "France",
+        "state": "Normandie",
+        "county": "Eure",
+        "extent": [
+          1.1342258,
+          49.0609519,
+          1.1955805,
+          49.0359702
+        ],
+        "description": "Juin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.378666,
+          43.296761
+        ]
+      },
+      "properties": {
+        "name": "Canne Bière et Saucisson",
+        "description": "Mars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.240412,
+          47.166405
+        ]
+      },
+      "properties": {
+        "name": "Chinon en Fanfare",
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.341569,
+          48.861322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "?"
+        },
+        "name": "Concours International de Fanfares Festives",
+        "description": "Lieu change à chaque édition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.364725,
+          48.854368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "iconUrl": "?"
+        },
+        "name": "Concours national des fanfares de médecine",
+        "description": "Juillet\nLieu change à chaque édition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          6.236179,
+          44.093195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Corso de la Lavande",
+        "description": "Août"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9566779,
+          46.1194566
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 142241,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "postcode": "01400",
+        "countrycode": "FR",
+        "name": "Cuivres en Dombes",
+        "country": "France",
+        "state": "Auvergne-Rhône-Alpes",
+        "county": "Ain",
+        "extent": [
+          4.9257304,
+          46.1568552,
+          4.9843132,
+          46.0960932
+        ],
+        "description": "Juillet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.663471,
+          43.849415
+        ]
+      },
+      "properties": {
+        "name": "Cuivro'Foliz",
+        "description": "Juillet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.575418,
+          54.775331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Durham Brass",
+        "description": "Juillet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -1.555177,
+          47.21775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Et Que Ca Braille !!!",
+        "description": "Avril"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.653994,
+          44.762878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanf'Arts de Cercle",
+        "description": "Mars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          4.649792,
+          44.256618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfa'Rhône",
+        "description": "Juillet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7644851,
+          43.2262519
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 7087021087,
+        "osm_key": "place",
+        "osm_value": "hamlet",
+        "type": "district",
+        "postcode": "83330",
+        "countrycode": "FR",
+        "name": "Fanfarade de l’Aouque",
+        "country": "France",
+        "city": "Le Castellet",
+        "state": "Provence-Alpes-Côte d'Azur",
+        "county": "Var",
+        "description": "Juillet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.118916,
+          47.483288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfare Party",
+        "description": "Juin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0911374,
+          48.4312059
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 553607,
+        "osm_key": "place",
+        "osm_value": "town",
+        "type": "city",
+        "postcode": "61000",
+        "countrycode": "FR",
+        "name": "Fanfarenfolies",
+        "country": "France",
+        "state": "Normandie",
+        "county": "Orne",
+        "extent": [
+          0.0618333,
+          48.4518299,
+          0.1227639,
+          48.4103098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          7.729546,
+          48.575429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Fanfarodoï",
+        "description": "Février"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.423091,
+          45.752014
+        ]
+      },
+      "properties": {
+        "name": "Festi Furie's",
+        "description": "Juillet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.529175,
+          46.307365
+        ]
+      },
+      "properties": {
+        "name": "Festival des fanfares",
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.491177,
+          48.383675
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red"
+        },
+        "name": "Festival Fanfares !",
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.398211,
+          44.250287
+        ]
+      },
+      "properties": {
+        "name": "Garonna Show",
+        "description": "Juillet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.104056,
+          49.264897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Honk! BC",
+        "description": "Juillet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.753457,
+          53.792894
+        ]
+      },
+      "properties": {
+        "name": "HONK! Bradford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.887953,
+          43.448822
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red"
+        },
+        "name": "L'Autan en Fanfare",
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.292701,
+          47.736869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "La Fanfieute",
+        "description": "Juillet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.802034,
+          46.173635
+        ]
+      },
+      "properties": {
+        "name": "La Féri'ain des fanfarons",
+        "description": "Août"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.26129,
+          43.701994
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red"
+        },
+        "name": "La Fête des Arsouillos",
+        "description": "Avril"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.060886,
+          43.668849
+        ]
+      },
+      "properties": {
+        "name": "Lâchez les fanfares !",
+        "description": "Juin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.627972,
+          50.652467
+        ]
+      },
+      "properties": {
+        "name": "Le Big Potes Festival",
+        "description": "Juin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.828598,
+          45.757913
+        ]
+      },
+      "properties": {
+        "name": "Le Bistrot",
+        "description": "Juillet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0559707518968535,
+          48.70062593867965
+        ]
+      },
+      "properties": {
+        "name": "Le cHap'",
+        "description": "Août"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.724649,
+          45.186695
+        ]
+      },
+      "properties": {
+        "name": "Le Derby des Fanfares",
+        "description": "Juin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.705056,
+          47.371544
+        ]
+      },
+      "properties": {
+        "name": "Le FANF",
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.886255,
+          45.764469
+        ]
+      },
+      "properties": {
+        "name": "Le Fefan",
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.875953,
+          43.60883
+        ]
+      },
+      "properties": {
+        "name": "Le festival de fanfare",
+        "description": "Juin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.926113,
+          48.035655
+        ]
+      },
+      "properties": {
+        "name": "Le festival Pouet",
+        "description": "Septembre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3696376,
+          48.3505932
+        ]
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 107694,
+        "osm_key": "place",
+        "osm_value": "village",
+        "type": "city",
+        "postcode": "72600",
+        "countrycode": "FR",
+        "name": "Le Son des Cuivres",
+        "country": "France",
+        "state": "Pays de la Loire",
+        "county": "Sarthe",
+        "extent": [
+          0.3534486,
+          48.3691474,
+          0.3880799,
+          48.3413686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.382614,
+          43.297417
+        ]
+      },
+      "properties": {
+        "name": "Les Fanf'Phocéennes",
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.213925,
+          48.124063
+        ]
+      },
+      "properties": {
+        "name": "Les Fanfarfelues",
+        "description": "Août"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.582176,
+          47.194933
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red"
+        },
+        "name": "Les Fanfaronnades",
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7043968,
+          45.1873317
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 5274954461,
+        "osm_key": "amenity",
+        "osm_value": "bar",
+        "type": "house",
+        "postcode": "38000",
+        "countrycode": "FR",
+        "name": "Les Fanfaronnades à la Belle Électrique",
+        "country": "France",
+        "city": "Grenoble",
+        "district": "Secteur 1",
+        "locality": "Bouchayer-Viallet",
+        "street": "Esplanade Andry-Farcy",
+        "state": "Auvergne-Rhône-Alpes",
+        "county": "Isère",
+        "description": "Mars"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.275962098883656,
+          44.27615763607465
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 184126075,
+        "osm_key": "highway",
+        "osm_value": "unclassified",
+        "type": "street",
+        "postcode": "26170",
+        "countrycode": "FR",
+        "name": "Les Insubmersibles",
+        "country": "France",
+        "city": "Buis-les-Baronnies",
+        "state": "Auvergne-Rhône-Alpes",
+        "county": "Drôme",
+        "extent": [
+          5.2759155,
+          44.2762862,
+          5.2760135,
+          44.2760359
+        ],
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.635064,
+          45.456172
+        ]
+      },
+      "properties": {
+        "name": "Les val daingues",
+        "description": "Août"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.194575,
+          43.708136
+        ]
+      },
+      "properties": {
+        "name": "Lunas dans la Lune",
+        "description": "Septembre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.126157,
+          43.581665
+        ]
+      },
+      "properties": {
+        "name": "Marching Band Festival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.448647,
+          45.823633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Nuit des Bandas Festival (NDB)",
+        "description": "Juillet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.301995,
+          43.758743
+        ]
+      },
+      "properties": {
+        "name": "PentecôtaVic",
+        "description": "Mai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551347,
+          47.216945
+        ]
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Red"
+        },
+        "name": "Prets, Feu, Cuivrez !",
+        "description": "Juin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.098557,
+          43.638901
+        ]
+      },
+      "properties": {
+        "name": "Quand les fanfares...",
+        "description": "Juin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          8.964844,
+          61.227802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "SMASH",
+        "description": "2 fois par an dans l'une des villes suivantes :\n- Bergen\n- Kristiansand\n- Trondheim\n- Ås",
+        "_umap_options": {
+          "iconUrl": "?"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -122.417049,
+          47.225095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tacoma HONK! Fest",
+        "description": "Septembre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          10.396457,
+          63.42693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "TORSK",
+        "description": "Février"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.561673,
+          43.581098
+        ]
+      },
+      "properties": {
+        "name": "Vent dans les Vignes",
+        "description": "Octobre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -3.827554,
+          48.577054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Viaduc en Fanfare",
+        "description": "Avril"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.384578,
+          47.09743
+        ]
+      },
+      "properties": {
+        "name": "Ze Festi'Box",
+        "description": "Septembre"
+      }
+    }
+  ]
+}
